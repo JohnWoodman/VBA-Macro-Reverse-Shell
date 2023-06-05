@@ -3,8 +3,8 @@
 'Twitter: @JohnWoodman15
 
 'Replace with your IP and Port
-Const ip = "192.168.43.1"
-Const port = "1337"
+Const ip = ""
+Const port = ""
 
 Const INVALID_SOCKET = -1
 Const WSADESCRIPTION_LEN = 256
